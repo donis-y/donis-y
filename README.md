@@ -3,7 +3,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=donis88)](https://github.com/anuraghazra/github-readme-stats)
 
 Career
-  - 2020.07 ~         MergeRity Inc.  /  Researcher
+  - 2024.05 ~         [FULLNESSCAT](https://fullnesscat.com)     /  CEO
+  - 2020.07 ~ 2023.12 Arbeon Inc.     /  Server Team Leader
   - 2019.01 ~ 2020.06 CureLink Inc.   /  General Manager
   - 2018.08 ~ 2018.12 4CGATE Inc.     /  General Manager
   - 2017.06 ~ 2018.03 CERTON Inc.     /  Senior Developer
