@@ -1,6 +1,8 @@
 ### Good Evening 
 ### I'm Donis
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=donis-y)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=donis-y&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donis-y&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 
 Career
   - 2024.05 ~         [FULLNESSCAT](https://fullnesscat.com)     /  CEO
